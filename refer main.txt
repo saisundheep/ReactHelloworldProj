@@ -1,0 +1,14 @@
+https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-module-in-reactjs-511b9790dede
+
+
+
+https://serverless-stack.com/chapters/create-a-login-page.html
+
+
+https://stormpath.com/blog/build-a-react-app-with-user-authentication
+
+
+http://technoetics.in/create-basic-login-forms-using-create-react-app-module-reactjs/
+
+
+https://codepen.io/AJALACOMFORT/pen/oLpPPR
